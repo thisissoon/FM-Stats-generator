@@ -1,0 +1,33 @@
+machine:
+  services:
+    - docker
+  environment:
+    REPO: registry.soon.build/fm/stats
+    TAG: test
+
+dependencies:
+  pre:
+    - sed "s/<DOCKER_REGISTRY>/$DOCKER_REGISTRY/;s/<DOCKER_AUTH>/$DOCKER_AUTH/" < .docker.config.json > ~/.dockercfg
+  override:
+    - docker build -t $REPO:$TAG .
+
+test:
+  override:
+    - docker run -it --name=test --net=host $REPO:$TAG py.test --cov-report xml
+
+deployment:
+  prod:
+    branch: master
+    commands:
+      - docker tag $REPO:$TAG $REPO:prod
+      - docker push $REPO:prod
+  qa:
+    branch: /release\/.*/
+    commands:
+      - docker tag $REPO:$TAG $REPO:qa
+      - docker push $REPO:qa
+  latest:
+    branch: develop
+    commands:
+      - docker tag $REPO:$TAG $REPO:latest
+      - docker push $REPO:latest
