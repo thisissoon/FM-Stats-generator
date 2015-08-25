@@ -1,0 +1,85 @@
+<html>
+    <head>
+        <style>
+        body {
+            font-family: Consolas, monaco, monospace;
+            font-style: normal;
+            font-variant: normal;
+        }
+
+        h2 {
+            margin: 0;
+        }
+
+        table {
+            margin-bottom: 1em;
+
+
+        }
+
+
+        </style>
+    </head>
+    <body>
+
+        <div style="border-bottom: 1px solid #000000">
+            <table>
+                <tr>
+                    <td><h1>SOON FM_<h1></td>   <td style="text-align: right">stats for week {{ week_num }}</td>
+                </tr>
+            </table>
+        </div>
+
+        <div>
+            <div><strong>total plays:</strong> {{ total_plays }} [tracks]</div>
+            <div><strong>total play time:</strong> {{ total_play_time|ms2mins }} [mins] {{ total_play_time|ms2hours }} [hours]</div>
+        </div>
+        <hr />
+
+        <h2>total play time per user [mins]</h2>
+        <table>
+            {% for item in total_play_time_per_user %}
+            <tr>
+                <td>{{ item['total']|ms2mins }}</td>   <td>{{ item['user']['display_name'] }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+
+        <h2>most active djs</h2>
+        <table>
+            {% for item in most_active_djs %}
+            <tr>
+                <td>{{ item['total'] }}</td>   <td>{{ item['user']['display_name'] }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+
+        <h2>most played tracks</h2>
+        <table>
+            {% for item in most_played_tracks %}
+            <tr>
+                <td>{{ item['track']['name'] }} - {{ item['track']['artists'][0]['name'] }}</td>   <td>{{ item['total'] }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+
+        <h2>most played genres</h2>
+        <table>
+            {% for item in most_played_genres %}
+            <tr>
+                <td>{{ item['total'] }}</td>   <td>{{ item['name'] }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+
+       <h2>most played artists</h2>
+        <table>
+            {% for item in most_played_artists %}
+            <tr>
+                <td>{{ item['total'] }}</td>   <td>{{ item['artist']['name'] }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+
+    </body>
+</html>

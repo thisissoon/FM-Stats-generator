@@ -1,0 +1,835 @@
+{
+    "total_play_time_per_user": [
+        {
+            "total": 11121141,
+            "user": {
+                "family_name": "French",
+                "display_name": "Ryan French",
+                "avatar_url": "https://lh4.googleusercontent.com/-M_7KW5W2jjM/AAAAAAAAAAI/AAAAAAAAABc/NYkXMt_LdLc/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "Ryan",
+                "id": "da2f447e-1dc5-4f4f-91df-1a0d031c0532"
+            }
+        },
+        {
+            "total": 10006996,
+            "user": {
+                "family_name": "Flade",
+                "display_name": "Fred Flade",
+                "avatar_url": "https://lh6.googleusercontent.com/-pPH-pLvAvN4/AAAAAAAAAAI/AAAAAAAAAQc/O2UYKlZYUT0/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "Fred",
+                "id": "4ad97115-c326-476f-854f-1edd854879f3"
+            }
+        },
+        {
+            "total": 9367981,
+            "user": {
+                "family_name": "Bushueva",
+                "display_name": "Lena Bushueva",
+                "avatar_url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "Lena",
+                "id": "aa06d7df-f740-45e9-a3eb-6cdb7ccf5561"
+            }
+        },
+        {
+            "total": 9335675,
+            "user": {
+                "family_name": "Holmes",
+                "display_name": "Florence Holmes",
+                "avatar_url": "https://lh3.googleusercontent.com/-zijJ8z7XR-8/AAAAAAAAAAI/AAAAAAAAACk/WPtByWe1SlU/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "Florence",
+                "id": "5db00514-2628-4017-99c1-01ffc601e696"
+            }
+        },
+        {
+            "total": 2737624,
+            "user": {
+                "family_name": "Warren",
+                "display_name": "James Warren",
+                "avatar_url": "https://lh6.googleusercontent.com/-WOwGfU-QYjE/AAAAAAAAAAI/AAAAAAAAABE/lqC4XiCND18/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "James",
+                "id": "785bc064-0e08-4ea3-98d5-446e497bd213"
+            }
+        },
+        {
+            "total": 1566091,
+            "user": {
+                "family_name": "Opare-Aryee",
+                "display_name": "Edward Opare-Aryee",
+                "avatar_url": "https://lh4.googleusercontent.com/-28HClpLQXVg/AAAAAAAAAAI/AAAAAAAAACc/q-bwY5-EaHo/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "Edward",
+                "id": "fef86892-0a28-4b26-b0b3-90a1050cfffd"
+            }
+        },
+        {
+            "total": 1506091,
+            "user": {
+                "family_name": "Szekeres",
+                "display_name": "Tom Szekeres",
+                "avatar_url": "https://lh6.googleusercontent.com/-kSWoUNS2BR4/AAAAAAAAAAI/AAAAAAAAAYI/VCsGZimPG-M/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "Tom",
+                "id": "0e5ac073-306c-4463-98ad-c569abee4a87"
+            }
+        },
+        {
+            "total": 1403598,
+            "user": {
+                "family_name": "Light",
+                "display_name": "Alex Light",
+                "avatar_url": "https://lh6.googleusercontent.com/-DZz9mCMYOfA/AAAAAAAAAAI/AAAAAAAAAAA/o4fsrDuZ37w/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "Alex",
+                "id": "7173a85c-7a6b-451c-8baa-59d28a71c7c9"
+            }
+        }
+    ],
+    "most_played_tracks": [
+        {
+            "track": {
+                "album": {
+                    "id": "449ed796-700b-47d1-a0dd-ca3858276f88",
+                    "images": [
+                        {
+                            "url": "https://i.scdn.co/image/cf39f3e7ad12cd18ef1689f94102f65e9bbd3cdf",
+                            "width": 616,
+                            "height": 640
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/f037731eb4092e7dee1c66a6a24f85b9ef490c78",
+                            "width": 289,
+                            "height": 300
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/9f7303aa305a46c05d7627906463cdd312955342",
+                            "width": 62,
+                            "height": 64
+                        }
+                    ],
+                    "name": "Jazz Impressions Of Japan",
+                    "uri": "spotify:album:1Rb6B6oexFpWWfGoclK4bX"
+                },
+                "name": "Tokyo Traffic",
+                "uri": "spotify:track:4nVu3eLLZxKwJSoqsRSfRO",
+                "play_count": 0,
+                "artists": [
+                    {
+                        "id": "dd961777-a8ef-43e3-b39b-800116421d0a",
+                        "uri": "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7",
+                        "name": "The Dave Brubeck Quartet"
+                    }
+                ],
+                "duration": 351666,
+                "id": "7e28d5bf-ef63-4fc1-aa0a-067d0bc34f0f"
+            },
+            "total": 2
+        },
+        {
+            "track": {
+                "album": {
+                    "id": "b8137196-8e35-46d2-8b9b-59541ad97477",
+                    "images": [
+                        {
+                            "url": "https://i.scdn.co/image/f1eb7353231a58a5c2ce30a331ee03800438244a",
+                            "width": 640,
+                            "height": 626
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/1307aa13efa544c9570c08c7e970a53daf0e8cd1",
+                            "width": 300,
+                            "height": 294
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/1dc0939202a6f6cb0c730ebb19633d99f7fd5ea1",
+                            "width": 64,
+                            "height": 63
+                        }
+                    ],
+                    "name": "Let Us Play",
+                    "uri": "spotify:album:06WYN4VlDuK6YCv7CKEomH"
+                },
+                "name": "Timber",
+                "uri": "spotify:track:5jby7celTQUoYjAht8peNh",
+                "play_count": 0,
+                "artists": [
+                    {
+                        "id": "38c819cd-107b-4463-a5fe-cd349e01264f",
+                        "uri": "spotify:artist:5wnhqlZzXIq8aO9awQO2ND",
+                        "name": "Coldcut"
+                    }
+                ],
+                "duration": 272066,
+                "id": "6de8948b-c7ce-481a-a9fa-5c03f2854eda"
+            },
+            "total": 2
+        },
+        {
+            "track": {
+                "album": {
+                    "id": "61fd5395-1c1f-4a07-a8ce-3a0abe6c1347",
+                    "images": [
+                        {
+                            "url": "https://i.scdn.co/image/29fae958177e5947af007150b8cb47c00e97147e",
+                            "width": 640,
+                            "height": 640
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/38024f4af1c8a0261a3fa43d0d483f34acc3a00e",
+                            "width": 300,
+                            "height": 300
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/eaf75e23e01ec4e7620fc46fe9caabafa8086cbd",
+                            "width": 64,
+                            "height": 64
+                        }
+                    ],
+                    "name": "Cesaria",
+                    "uri": "spotify:album:7LlFyJqvXo8e01JxNUusOu"
+                },
+                "name": "Petit pays",
+                "uri": "spotify:track:7wa4m54a8B6Gsb8trZRM5n",
+                "play_count": 0,
+                "artists": [
+                    {
+                        "id": "d7908f3b-9130-4714-b6d5-65c7d3a55111",
+                        "uri": "spotify:artist:0Nks3cFWU2a7rooAlFQYgn",
+                        "name": "Cesaria Evora"
+                    }
+                ],
+                "duration": 224506,
+                "id": "6ba725c1-5edf-4b1a-803c-3a47ef100936"
+            },
+            "total": 2
+        },
+        {
+            "track": {
+                "album": {
+                    "id": "a5322cc2-1c4f-41d1-af34-3c5bed5c93e4",
+                    "images": [
+                        {
+                            "url": "https://i.scdn.co/image/79195bf1223ebaa029b4a8c1c1fc1ded385b637d",
+                            "width": 640,
+                            "height": 640
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/dd5ecdaf30f9a6d0973054ea039eaaf5327771af",
+                            "width": 300,
+                            "height": 300
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/a0826afeb1ea66c95e03356623afbddf23ec9cac",
+                            "width": 64,
+                            "height": 64
+                        }
+                    ],
+                    "name": "Hôtel Costes - La suite - by Stéphane Pompougnac",
+                    "uri": "spotify:album:0dR6oNfg1pqmBrm9IAQNjD"
+                },
+                "name": "Carnaval De São Vicente - Jazzy carnaval mix",
+                "uri": "spotify:track:0QsFgv5ggZg10evAyRroK8",
+                "play_count": 0,
+                "artists": [
+                    {
+                        "id": "d7908f3b-9130-4714-b6d5-65c7d3a55111",
+                        "uri": "spotify:artist:0Nks3cFWU2a7rooAlFQYgn",
+                        "name": "Cesaria Evora"
+                    }
+                ],
+                "duration": 385519,
+                "id": "da599394-37cb-45e2-a7ad-7b79833fecee"
+            },
+            "total": 2
+        },
+        {
+            "track": {
+                "album": {
+                    "id": "66302483-2354-443a-a4ef-8f5eb2cbf8b0",
+                    "images": [
+                        {
+                            "url": "https://i.scdn.co/image/09ac3be0f7cd80783c79e1a1b85416a409e4a6ff",
+                            "width": 640,
+                            "height": 640
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/53efa566f98ba130f28c23b95bd40136741289ed",
+                            "width": 300,
+                            "height": 300
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/a66a4d1c396bb515434092d5d8dfc0d658970221",
+                            "width": 64,
+                            "height": 64
+                        }
+                    ],
+                    "name": "I Love You, Honeybear",
+                    "uri": "spotify:album:7buEcyw6fJF3WPgr06BomH"
+                },
+                "name": "I Love You, Honeybear",
+                "uri": "spotify:track:6WFV9HowZft8fw5eg9IpPA",
+                "play_count": 0,
+                "artists": [
+                    {
+                        "id": "3b2d0179-aed8-4daf-be0c-355c6350aa16",
+                        "uri": "spotify:artist:2kGBy2WHvF0VdZyqiVCkDT",
+                        "name": "Father John Misty"
+                    }
+                ],
+                "duration": 278920,
+                "id": "a4e1d970-d798-4daf-b599-7a518397aae1"
+            },
+            "total": 1
+        },
+        {
+            "track": {
+                "album": {
+                    "id": "48ad3836-6fbc-44d0-864f-ee3f622d7da8",
+                    "images": [
+                        {
+                            "url": "https://i.scdn.co/image/b3689f9f51764eda4ccec38986cbfc083deb53c3",
+                            "width": 640,
+                            "height": 640
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/2eae5f126e9536a7dfabd5f6d9aa2de9bf0f6414",
+                            "width": 300,
+                            "height": 300
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/d58eac2049f3e969bfb6d5344b3ec2e1f2fa4226",
+                            "width": 64,
+                            "height": 64
+                        }
+                    ],
+                    "name": "Tru Thoughts Covers, Vol. 2",
+                    "uri": "spotify:album:5ZAVW0xnS4DJDCS85vp7S4"
+                },
+                "name": "Caravan",
+                "uri": "spotify:track:3cAJgriJfgzA3nwmsMDQJJ",
+                "play_count": 0,
+                "artists": [
+                    {
+                        "id": "ded3bf78-a71f-481a-9366-1754044a2826",
+                        "uri": "spotify:artist:72ULmvhT4vtIbZibYSaB28",
+                        "name": "Saravah Soul"
+                    },
+                    {
+                        "id": "a0eae53b-db9f-498e-a595-a296e1da447d",
+                        "uri": "spotify:artist:11Kbn23REbgOLyS5u8xLOp",
+                        "name": "Nizzle Hizzle"
+                    },
+                    {
+                        "id": "6ce10ea4-0f97-47c3-a134-0c476be8832b",
+                        "uri": "spotify:artist:4uQD4KYQjo6uYeNhLyvIUe",
+                        "name": "Jenna G"
+                    },
+                    {
+                        "id": "90dd3814-4af0-402d-828d-0ef086f32adb",
+                        "uri": "spotify:artist:1XZzbCZRuj6eOdRxQcmiD7",
+                        "name": "Zed Bias"
+                    },
+                    {
+                        "id": "8f5c3f30-569c-4719-865d-da14d0d6da15",
+                        "uri": "spotify:artist:0fqE57gXXTTqxXlFYVNG2u",
+                        "name": "Jesca Hoop"
+                    },
+                    {
+                        "id": "f38d0d66-c1b6-489a-bebd-236bad5d69ed",
+                        "uri": "spotify:artist:7l9MYefk0544OMaA9wIPDW",
+                        "name": "Fingathing"
+                    },
+                    {
+                        "id": "17ccbed5-1c2e-42bc-b66c-0c0ac729442f",
+                        "uri": "spotify:artist:7v4jgdRcT6iHDgIwX2l3E2",
+                        "name": "The Rotterdam Jazz Orchestra"
+                    },
+                    {
+                        "id": "a94fec12-f999-492d-9a6e-c8d997f4d316",
+                        "uri": "spotify:artist:6K3loJxbWoXzVycXOBKh7P",
+                        "name": "Mark de Clive-Lowe"
+                    },
+                    {
+                        "id": "28ccc977-3c1b-4295-a088-55d2f413bcbe",
+                        "uri": "spotify:artist:40JMTpVRUw90SrN4pFA6Mz",
+                        "name": "Ana Tijoux"
+                    },
+                    {
+                        "id": "06ff8ca8-f324-43c1-ade8-b7d9712d8c12",
+                        "uri": "spotify:artist:5QJZUg9ngYII5FkgAGFgW7",
+                        "name": "Youngblood Brass Band"
+                    },
+                    {
+                        "id": "cb333f4a-24f2-473b-91bd-16ead085a730",
+                        "uri": "spotify:artist:4cEYh7S0lnB9zj30tzPorE",
+                        "name": "Harleighblu"
+                    },
+                    {
+                        "id": "598feb4f-4a4b-4c81-8282-d93eabe96eeb",
+                        "uri": "spotify:artist:4r4mp3aUf5iZgUX6oyAetl",
+                        "name": "Quantic Y Su Conjunto Los Miticos Del Ritmo"
+                    },
+                    {
+                        "id": "665b8880-c106-4bc2-a116-f23a8bddd29e",
+                        "uri": "spotify:artist:4N9nNkpjGuBlGWnYubQI8t",
+                        "name": "Belleruche"
+                    },
+                    {
+                        "id": "3a15b39c-a1e8-4c1b-b6c7-8fd556bee478",
+                        "uri": "spotify:artist:7FjGU7aqZcwNk3ICLLmcSX",
+                        "name": "Jimetta Rose"
+                    },
+                    {
+                        "id": "39f57bf3-7283-4aa4-bb69-6373947d7a9b",
+                        "uri": "spotify:artist:4XYZsWxMsm67mdzjZhxRap",
+                        "name": "La Grima"
+                    },
+                    {
+                        "id": "6962c082-43d2-48d2-9561-0fd6365ca523",
+                        "uri": "spotify:artist:4AnPXzLvNImRDVH7taSIKh",
+                        "name": "Megan Washington"
+                    },
+                    {
+                        "id": "6623b26d-376b-4eaf-8cf3-040ca245305b",
+                        "uri": "spotify:artist:1QVWN3ebl1dVgVbMgQPG8K",
+                        "name": "The Bamboos"
+                    },
+                    {
+                        "id": "c6bf11f8-b696-4afb-867e-3a536d068a19",
+                        "uri": "spotify:artist:5yG6QvPkqSBC1pHnNDoC7q",
+                        "name": "Milly Blue"
+                    },
+                    {
+                        "id": "675fa2d6-6ce8-428b-b7f7-f8bd15077cc9",
+                        "uri": "spotify:artist:2p84pb35pjHRrclgYnUWr4",
+                        "name": "Tanya Auclair"
+                    },
+                    {
+                        "id": "e20354e9-1936-4a68-88e7-460368d13bbc",
+                        "uri": "spotify:artist:4RUjXpY1miotoKFF76r6gm",
+                        "name": "Natural Self"
+                    },
+                    {
+                        "id": "fb1f566e-1eed-43d5-8639-85d4b91f29a8",
+                        "uri": "spotify:artist:5Rowuc5XCQz7E8SaOFSue9",
+                        "name": "The Combo Barbaro"
+                    },
+                    {
+                        "id": "986e3e0d-013e-46d3-8fc0-3a88e988b10f",
+                        "uri": "spotify:artist:1ga4lWS7NtKo4r9jNSWumc",
+                        "name": "Alice Russell"
+                    },
+                    {
+                        "id": "b74c4cb9-f81c-4339-96c2-998aadc93652",
+                        "uri": "spotify:artist:5ZMwoAjeDtLJ0XRwRTgaK8",
+                        "name": "Quantic"
+                    }
+                ],
+                "duration": 229760,
+                "id": "36ba49b0-a355-43b3-9466-8d67bdd24a72"
+            },
+            "total": 1
+        },
+        {
+            "track": {
+                "album": {
+                    "id": "818bc131-55ab-4135-aa2f-026022449d9d",
+                    "images": [
+                        {
+                            "url": "https://i.scdn.co/image/fb6bcc222bd774bb8d81d866617e102fab786e53",
+                            "width": 640,
+                            "height": 640
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/d17a45adc0c1918f5023586efec29f18ecda7f4e",
+                            "width": 300,
+                            "height": 300
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/7f8ef14739f49806933f822e0540eebe422d8a89",
+                            "width": 64,
+                            "height": 64
+                        }
+                    ],
+                    "name": "Pleasure",
+                    "uri": "spotify:album:0pjdMHnNImJLPweq4wzeND"
+                },
+                "name": "Pride And Vanity",
+                "uri": "spotify:track:0hagQ0jJ0TZvwcSeGTOXoQ",
+                "play_count": 0,
+                "artists": [
+                    {
+                        "id": "8271e3eb-8c32-45de-91fa-6bce0e302b5b",
+                        "uri": "spotify:artist:6m30rs1IQqnWqV5nKMpU7U",
+                        "name": "Ohio Players"
+                    }
+                ],
+                "duration": 265493,
+                "id": "8c0598ed-e0fc-414e-9c5d-e047f370676d"
+            },
+            "total": 1
+        },
+        {
+            "track": {
+                "album": {
+                    "id": "58d8753e-55d7-4eb8-a452-07fce5c24634",
+                    "images": [
+                        {
+                            "url": "https://i.scdn.co/image/b944504e08e3ee5299343b23695194558727f320",
+                            "width": 640,
+                            "height": 640
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/3a161484819eeea6455f0159bdefdd886a4399b1",
+                            "width": 300,
+                            "height": 300
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/e5d4b4e5b7774dcc8c0e91e744d5aaec07d9ccaa",
+                            "width": 64,
+                            "height": 64
+                        }
+                    ],
+                    "name": "Disconnect",
+                    "uri": "spotify:album:313WI6v7tdZIs2KD0uXJoB"
+                },
+                "name": "Wild Safari",
+                "uri": "spotify:track:0EhZ838W1oqpmjLKznbwgb",
+                "play_count": 0,
+                "artists": [
+                    {
+                        "id": "c258a93b-2033-4f53-972e-a74510ace041",
+                        "uri": "spotify:artist:4wkojVzWMNyrH7cQ3GJp6K",
+                        "name": "Traks"
+                    },
+                    {
+                        "id": "f7fb0feb-468e-4f65-b2d0-ff92bcddb3e5",
+                        "uri": "spotify:artist:39PDQ8Mxkn1E92OeOdT3S1",
+                        "name": "Rosenda"
+                    },
+                    {
+                        "id": "d0b64faf-bc55-4c9c-bafa-55329ac076b0",
+                        "uri": "spotify:artist:5XoqX4380DSi9Kxm5nKtmX",
+                        "name": "The Countach"
+                    },
+                    {
+                        "id": "b8fe67c6-1912-4a08-8620-8d5a1d0b2e0d",
+                        "uri": "spotify:artist:0nUXGqh2Hl8RLVFg93HsGl",
+                        "name": "George G"
+                    },
+                    {
+                        "id": "2efca83b-38e1-41c5-b07b-3e03ea2e6e80",
+                        "uri": "spotify:artist:4thLh9MKfEn7g7dNKOB8DK",
+                        "name": "Chris"
+                    },
+                    {
+                        "id": "83ab938b-9edc-4e16-af68-521ea36851f0",
+                        "uri": "spotify:artist:2lHpa4rwVeFbEnA0X7d0Tt",
+                        "name": "Chris & Cosey"
+                    }
+                ],
+                "duration": 168569,
+                "id": "f9a6ea63-19cf-474f-a5a8-0dc18b159abc"
+            },
+            "total": 1
+        },
+        {
+            "track": {
+                "album": {
+                    "id": "7b72f87d-4565-4fb8-88e2-fb797b0d0945",
+                    "images": [
+                        {
+                            "url": "https://i.scdn.co/image/c533ab7bc52e9a47bbdb8943cee3575781c58eef",
+                            "width": 640,
+                            "height": 563
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/aac18e7a57df9d9ca36d90f394b3af2ad8e68fa7",
+                            "width": 300,
+                            "height": 264
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/70f73bcf7bded928730951785656f091e39218a2",
+                            "width": 64,
+                            "height": 56
+                        }
+                    ],
+                    "name": "Reanimation",
+                    "uri": "spotify:album:1OZ7GnepAtCfGivyYPCWUM"
+                },
+                "name": "Kyur4 Th Ich",
+                "uri": "spotify:track:1csSTytg32ZP29aHqBiwTn",
+                "play_count": 0,
+                "artists": [
+                    {
+                        "id": "b30e165f-b5e5-430e-ac7a-d624b7bde864",
+                        "uri": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz",
+                        "name": "Linkin Park"
+                    }
+                ],
+                "duration": 152533,
+                "id": "1cceb253-6bd6-419b-a9a4-69c17f85ffe4"
+            },
+            "total": 1
+        },
+        {
+            "track": {
+                "album": {
+                    "id": "97f62603-c78a-44f3-9d9f-bc37dd52a57f",
+                    "images": [
+                        {
+                            "url": "https://i.scdn.co/image/e918e1fbd7de686ba615c1615ea1ac3f38b1a399",
+                            "width": 640,
+                            "height": 640
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/755c8373307542f6880da9339cb91b7734c9fda6",
+                            "width": 300,
+                            "height": 300
+                        },
+                        {
+                            "url": "https://i.scdn.co/image/cdb7fb952598936df02b25e2053f2eebb8e2abd6",
+                            "width": 64,
+                            "height": 64
+                        }
+                    ],
+                    "name": "Adventures In The Land Of Woo",
+                    "uri": "spotify:album:1QvDflPeL4dq9B4L9dKeKD"
+                },
+                "name": "The Mothership Is Listening - Original Mix",
+                "uri": "spotify:track:3mTNyAWsK7QqKXkQIBl81K",
+                "play_count": 0,
+                "artists": [
+                    {
+                        "id": "cea51363-aecd-4115-bf2b-4b9a21118c6a",
+                        "uri": "spotify:artist:6WHCgS2g18qWw45K66DdRZ",
+                        "name": "Seahawks"
+                    }
+                ],
+                "duration": 675857,
+                "id": "54bab787-2c94-415a-bb86-28824e096e77"
+            },
+            "total": 1
+        }
+    ],
+    "most_active_djs": [
+        {
+            "total": 43,
+            "user": {
+                "family_name": "French",
+                "display_name": "Ryan French",
+                "avatar_url": "https://lh4.googleusercontent.com/-M_7KW5W2jjM/AAAAAAAAAAI/AAAAAAAAABc/NYkXMt_LdLc/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "Ryan",
+                "id": "da2f447e-1dc5-4f4f-91df-1a0d031c0532"
+            }
+        },
+        {
+            "total": 38,
+            "user": {
+                "family_name": "Flade",
+                "display_name": "Fred Flade",
+                "avatar_url": "https://lh6.googleusercontent.com/-pPH-pLvAvN4/AAAAAAAAAAI/AAAAAAAAAQc/O2UYKlZYUT0/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "Fred",
+                "id": "4ad97115-c326-476f-854f-1edd854879f3"
+            }
+        },
+        {
+            "total": 27,
+            "user": {
+                "family_name": "Bushueva",
+                "display_name": "Lena Bushueva",
+                "avatar_url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "Lena",
+                "id": "aa06d7df-f740-45e9-a3eb-6cdb7ccf5561"
+            }
+        },
+        {
+            "total": 23,
+            "user": {
+                "family_name": "Holmes",
+                "display_name": "Florence Holmes",
+                "avatar_url": "https://lh3.googleusercontent.com/-zijJ8z7XR-8/AAAAAAAAAAI/AAAAAAAAACk/WPtByWe1SlU/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "Florence",
+                "id": "5db00514-2628-4017-99c1-01ffc601e696"
+            }
+        },
+        {
+            "total": 10,
+            "user": {
+                "family_name": "Warren",
+                "display_name": "James Warren",
+                "avatar_url": "https://lh6.googleusercontent.com/-WOwGfU-QYjE/AAAAAAAAAAI/AAAAAAAAABE/lqC4XiCND18/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "James",
+                "id": "785bc064-0e08-4ea3-98d5-446e497bd213"
+            }
+        },
+        {
+            "total": 6,
+            "user": {
+                "family_name": "Opare-Aryee",
+                "display_name": "Edward Opare-Aryee",
+                "avatar_url": "https://lh4.googleusercontent.com/-28HClpLQXVg/AAAAAAAAAAI/AAAAAAAAACc/q-bwY5-EaHo/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "Edward",
+                "id": "fef86892-0a28-4b26-b0b3-90a1050cfffd"
+            }
+        },
+        {
+            "total": 4,
+            "user": {
+                "family_name": "Szekeres",
+                "display_name": "Tom Szekeres",
+                "avatar_url": "https://lh6.googleusercontent.com/-kSWoUNS2BR4/AAAAAAAAAAI/AAAAAAAAAYI/VCsGZimPG-M/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "Tom",
+                "id": "0e5ac073-306c-4463-98ad-c569abee4a87"
+            }
+        },
+        {
+            "total": 4,
+            "user": {
+                "family_name": "Light",
+                "display_name": "Alex Light",
+                "avatar_url": "https://lh6.googleusercontent.com/-DZz9mCMYOfA/AAAAAAAAAAI/AAAAAAAAAAA/o4fsrDuZ37w/photo.jpg",
+                "spotify_playlists": null,
+                "given_name": "Alex",
+                "id": "7173a85c-7a6b-451c-8baa-59d28a71c7c9"
+            }
+        }
+    ],
+    "most_played_genres": [
+        {
+            "total": 81,
+            "name": "nu jazz"
+        },
+        {
+            "total": 69,
+            "name": "ninja"
+        },
+        {
+            "total": 65,
+            "name": "acid jazz"
+        },
+        {
+            "total": 62,
+            "name": "deep funk"
+        },
+        {
+            "total": 56,
+            "name": "trip hop"
+        },
+        {
+            "total": 54,
+            "name": "downtempo"
+        },
+        {
+            "total": 45,
+            "name": "broken beat"
+        },
+        {
+            "total": 38,
+            "name": "chill-out"
+        },
+        {
+            "total": 37,
+            "name": "turntablism"
+        },
+        {
+            "total": 36,
+            "name": "big beat"
+        }
+    ],
+    "total_plays": 155,
+    "most_played_artists": [
+        {
+            "total": 15,
+            "artist": {
+                "id": "675fa2d6-6ce8-428b-b7f7-f8bd15077cc9",
+                "uri": "spotify:artist:2p84pb35pjHRrclgYnUWr4",
+                "name": "Tanya Auclair"
+            }
+        },
+        {
+            "total": 15,
+            "artist": {
+                "id": "3a15b39c-a1e8-4c1b-b6c7-8fd556bee478",
+                "uri": "spotify:artist:7FjGU7aqZcwNk3ICLLmcSX",
+                "name": "Jimetta Rose"
+            }
+        },
+        {
+            "total": 15,
+            "artist": {
+                "id": "665b8880-c106-4bc2-a116-f23a8bddd29e",
+                "uri": "spotify:artist:4N9nNkpjGuBlGWnYubQI8t",
+                "name": "Belleruche"
+            }
+        },
+        {
+            "total": 15,
+            "artist": {
+                "id": "8f5c3f30-569c-4719-865d-da14d0d6da15",
+                "uri": "spotify:artist:0fqE57gXXTTqxXlFYVNG2u",
+                "name": "Jesca Hoop"
+            }
+        },
+        {
+            "total": 15,
+            "artist": {
+                "id": "6ce10ea4-0f97-47c3-a134-0c476be8832b",
+                "uri": "spotify:artist:4uQD4KYQjo6uYeNhLyvIUe",
+                "name": "Jenna G"
+            }
+        },
+        {
+            "total": 15,
+            "artist": {
+                "id": "a94fec12-f999-492d-9a6e-c8d997f4d316",
+                "uri": "spotify:artist:6K3loJxbWoXzVycXOBKh7P",
+                "name": "Mark de Clive-Lowe"
+            }
+        },
+        {
+            "total": 15,
+            "artist": {
+                "id": "c6bf11f8-b696-4afb-867e-3a536d068a19",
+                "uri": "spotify:artist:5yG6QvPkqSBC1pHnNDoC7q",
+                "name": "Milly Blue"
+            }
+        },
+        {
+            "total": 15,
+            "artist": {
+                "id": "ded3bf78-a71f-481a-9366-1754044a2826",
+                "uri": "spotify:artist:72ULmvhT4vtIbZibYSaB28",
+                "name": "Saravah Soul"
+            }
+        },
+        {
+            "total": 15,
+            "artist": {
+                "id": "06ff8ca8-f324-43c1-ade8-b7d9712d8c12",
+                "uri": "spotify:artist:5QJZUg9ngYII5FkgAGFgW7",
+                "name": "Youngblood Brass Band"
+            }
+        },
+        {
+            "total": 15,
+            "artist": {
+                "id": "6962c082-43d2-48d2-9561-0fd6365ca523",
+                "uri": "spotify:artist:4AnPXzLvNImRDVH7taSIKh",
+                "name": "Megan Washington"
+            }
+        }
+    ],
+    "total_play_time": 47045197
+}
