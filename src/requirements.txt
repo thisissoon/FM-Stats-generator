@@ -6,5 +6,6 @@ mock==1.0.1
 pytest-cov
 pytest-flakes
 pytest-pep8
+redis==2.10.3
 requests==2.2.1
 xhtml2pdf==0.0.6
