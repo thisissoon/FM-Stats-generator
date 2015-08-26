@@ -2,32 +2,28 @@ machine:
   services:
     - docker
   environment:
-    REPO: registry.soon.build/fm/stats
+    REPO: thisissoon/fm-stats
     TAG: $(sed 's/master/latest/;s/\//\-/' <<<$CIRCLE_BRANCH)
 
 dependencies:
-  pre:
-    - sed "s/<DOCKER_REGISTRY>/$DOCKER_REGISTRY/;s/<DOCKER_AUTH>/$DOCKER_AUTH/" < .docker.config.json > ~/.dockercfg
   override:
     - docker build -t $REPO:$TAG .
 
 test:
   override:
     - docker run -it --name test --net=host $REPO:$TAG py.test tests --cov-report xml
+  post:
+    - docker tag $REPO:$TAG quay.io/$REPO:$TAG
+    - sed "s/<QUAY_TOKEN>/$QUAY_TOKEN/" < .dockercfg.template > ~/.dockercfg
 
 deployment:
   prod:
     branch: master
     commands:
-      - docker tag $REPO:$TAG $REPO:prod
-      - docker push $REPO:prod
-  qa:
-    branch: /release\/.*/
-    commands:
-      - docker tag $REPO:$TAG $REPO:qa
-      - docker push $REPO:qa
+      - docker tag $REPO:$TAG quay.io/$REPO:prod
+      - docker push quay.io/$REPO:prod
   latest:
     branch: develop
     commands:
-      - docker tag $REPO:$TAG $REPO:latest
-      - docker push $REPO:latest
+      - docker tag $REPO:$TAG quay.io/$REPO:latest
+      - docker push quay.io/$REPO:latest
