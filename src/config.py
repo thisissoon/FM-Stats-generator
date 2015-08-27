@@ -12,8 +12,8 @@ EXPORT_BUCKET_NAME = os.environ.get('EXPORT_BUCKET_NAME')
 
 
 class Celery(object):
-    BROKER_URL = os.environ.get('RABBITMQ_URI')
-    CELERY_RESULT_BACKEND = os.environ.get('RABBITMQ_URI')
+    BROKER_URL = os.environ.get('BROKER_URI')
+    CELERY_RESULT_BACKEND = os.environ.get('BROKER_URI')
     CELERY_TASK_SERIALIZER = 'json'
     CELERY_RESULT_SERIALIZER = 'json'
     CELERY_ACCEPT_CONTENT = ['json']
